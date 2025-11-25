@@ -1,0 +1,135 @@
+
+
+.DivContainer{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    margin: 0;
+}
+
+.description{
+    background-color: #CFD8DC;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: solid 2px black;
+}
+
+.description h1{
+    color: #1B5E20;
+    padding-top: 30px;
+    font-size: 50px;
+    font-family: serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.description ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.description ul li{
+    padding-top:30px;
+    font-size: 30px;
+    font-family: serif;
+}
+
+.description p{
+    width: 100%;
+    max-width: 60%;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: serif;
+    padding-bottom: 40px;
+}
+
+.description ul img{
+    width: 40px;
+}
+
+.description a.clickable{
+    display: inline-flex;
+    color: black;
+    text-decoration: none;
+    transition: transform 0.2s, color 0.2s ;
+}
+
+.description a.clickable:hover{
+    transform: scale(1.1);
+}
+
+.imgDescription{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #CFD8DC;
+    height: 600px;
+    width: 600px;
+    position: relative;
+    border-bottom: solid 2px black;
+}
+
+#staticImg{
+    justify-items: center;
+    align-items: center;
+}
+
+#staticImg img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.carousel-item img {
+    width: 100%;            
+    height: 600px;
+    object-fit: cover;      
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 80%;
+    max-width: 400px;
+}
+
+#input{
+    padding: 12px;
+    font-size: 16px;
+    font-family: serif;
+    border-radius: 10px;
+    border: 2px solid #1B5E20;
+    background-color: #E0E6EA;
+}
+
+#messege{
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid #1B5E20;
+    font-family: serif;
+    background-color: #E0E6EA;
+}
+
+.buttonContainer{
+    display: flex;
+    gap: 20px;
+}
+
+.buttonContainer button{
+    border: 2px solid #1B5E20;
+    border-radius: 10px;
+    font-family: serif;
+    font-weight: bold;
+    width: 50%;
+    background-color: #E0E6EA;
+}
+
+.buttonContainer button:hover{
+    background-color: #B0BCC2;
+}
+

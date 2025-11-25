@@ -1,0 +1,143 @@
+
+.spaceNavbar{
+    height: 120px;
+}
+
+.brandIcon{
+    width: 80px;
+    margin-right: 10px;
+    margin-left: 20px;
+    filter: invert(1) brightness(2);
+}
+
+.navbar {
+    background-color: #1B5E20 !important;
+    height: 120px;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: serif;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+    color: #ffffff;
+    font-family: serif;
+}
+
+.navbar-toggler:focus{
+    outline: none;
+}
+
+@media (max-width: 1200px){
+
+    .navbar-collapse {
+        position: absolute;
+        right: 0;
+        left: auto;
+        top: 100%;
+        background-color: #1B5E20;
+        width: auto;
+        min-width: 180px;
+        border-radius: 0 0 .5rem .5rem;
+        box-shadow: 0 .25rem .75rem rgba(0,0,0,.1);
+        padding: .5rem 1rem;
+        overflow: hidden;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-nav .nav-link{
+        text-align: left;
+        color: #90A4AE !important;
+        font-family: serif;
+    }
+
+    .navbar-nav .nav-link:hover{
+        color: #ffffff !important;
+    }
+}
+
+@media(min-width: 1201px){
+    .navbar-nav{
+        flex-direction: row;
+        align-items: center;
+    }
+}
+
+.pageEnd{
+    width: 100%;
+    height: 10vh;
+    background-color: #1B5E20;
+    display: flex;
+    align-items: center;
+}
+
+.pageEnd p{
+    font-size: 20px;
+    color: white;
+    font-family: serif;
+    padding-left: 200px;
+}
+
+.pageEnd ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-left: auto;
+    margin-right: 2vw;
+    padding-right: 200px;
+    gap: 20px;
+}
+
+.pageEnd ul a img{
+    width: 45px;
+}
+
+.pageEnd a.clickable{
+    display: inline-flex;
+    color: black;
+    text-decoration: none;
+    transition: transform 0.2s, color 0.2s ;
+}
+.pageEnd a.clickable:hover{
+    transform: scale(1.1);
+}
+
+@media(max-width: 1200px){
+    .pageEnd{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+    .pageEnd p{
+        font-size: 16px;
+        padding: 0;
+        margin: 0;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+    }
+    .pageEnd ul{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 0;
+        margin: 0;
+    }
+    .pageEnd ul a img{
+        width: 30px;
+    }
+
+}
