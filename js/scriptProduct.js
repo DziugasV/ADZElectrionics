@@ -22,7 +22,7 @@ function addDataToHTML() {
 
     products.forEach(product => {
         let newProduct = document.createElement('a');
-        newProduct.href = '../CA/detail.html?id=' + product.id;
+        newProduct.href = '/ADZElectrionics/detail.html?id=' + product.id;
         newProduct.classList.add('item');
         newProduct.innerHTML = `
             <img src="${product.image}" alt="${product.name}">
