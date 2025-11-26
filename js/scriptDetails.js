@@ -3,7 +3,7 @@
 //Gets JSON and passes functiion
 
 let products = null;
-fetch('products.json')
+fetch('/ADZElectrionics/products.json')
 .then(response => response.json())
 .then(data => {
     products = data;
@@ -21,7 +21,8 @@ function showDetails(){
 
     //returns to home screan
     if(!thisProduct){
-        window.location.href = "/"
+        window.location.href = '/ADZElectrionics/index.html';
+        return;
     }
 
     //Gets all products information
@@ -35,23 +36,5 @@ function showDetails(){
         const li = document.createElement('li');
         li.textContent = feature;
         featureList.appendChild(li);
-    });
-
-    //Puts all information in thier requerd fiels of HTML
-    //Gets detail page HTML info from specified directory
-    let listProducts = document.querySelector('.listProduct')
-    (products.filter(value => value.category == thisProduct.category))
-    .forEach(product => {
-        let newProduct = document.createElement('a');
-        newProduct.href = 'detail.html?id=' + product.id;
-        fetch('./products.json')
-        newProduct.classList.add('item');
-        newProduct.innerHTML = `
-            <img src="${product.image}">
-            <h2>${product.name}</h2>
-            <div class="price">${product.price}</div>
-        `;
-        //adds everything
-        listProducts.appendChild(newProduct);
     });
 }
