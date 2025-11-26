@@ -19,10 +19,12 @@ function showDetails(){
         return value.id == productId
     })[0];
 
+    console.log("1");
     //returns to home screan
     if(!thisProduct){
         window.location.href = "/"
     }
+    console.log("2");
 
     //Gets all products information
     detail.querySelector('.image img').src = thisProduct.image;
@@ -36,14 +38,17 @@ function showDetails(){
         li.textContent = feature;
         featureList.appendChild(li);
     });
+    console.log("3");
 
     //Puts all information in thier requerd fiels of HTML
     //Gets detail page HTML info from specified directory
     let listProducts = document.querySelector('.listProduct')
+        console.log("4");
     (products.filter(value => value.category == thisProduct.category))
-    .forEach(product => {
+        console.log("5");
+        .forEach(product => {
         let newProduct = document.createElement('a');
-        newProduct.href = '/CA/detail.html?id' + product.id';
+        newProduct.href = '/detail.html?id' + product.id';
         fetch('./products.json')
         newProduct.classList.add('item');
         newProduct.innerHTML = `
@@ -51,7 +56,7 @@ function showDetails(){
             <h2>${product.name}</h2>
             <div class="price">${product.price}</div>
         `;
-
+        console.log("6");
         //adds everything
         listProducts.appendChild(newProduct);
     });
