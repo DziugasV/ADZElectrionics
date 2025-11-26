@@ -43,7 +43,7 @@ function showDetails(){
     (products.filter(value => value.category == thisProduct.category))
     .forEach(product => {
         let newProduct = document.createElement('a');
-        newProduct.href = '../CA/detail.html?id' + product.id;
+        newProduct.href = 'detail.html?id' + product.id;
         fetch('./products.json')
         newProduct.classList.add('item');
         newProduct.innerHTML = `
