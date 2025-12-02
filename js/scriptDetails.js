@@ -3,7 +3,7 @@
 //Gets JSON and passes functiion
 
 let products = null;
-fetch('/ADZElectrionics/products.json')
+fetch('products.json')
 .then(response => response.json())
 .then(data => {
     products = data;
@@ -21,7 +21,7 @@ function showDetails(){
 
     //returns to home screan
     if(!thisProduct){
-        window.location.href = '/ADZElectrionics/index.html';
+        window.location.href = 'index.html';
         return;
     }
 
