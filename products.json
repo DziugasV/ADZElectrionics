@@ -4,7 +4,7 @@
         "category": "TV",
         "name": "VeloVue Horizon 4K",
         "price": "249.99",
-        "image": "images/productIMG/pPTv/tv1.png",
+        "image": "images/productIMG/pPTv/tv1.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -20,7 +20,7 @@
         "category": "TV",
         "name": "NovaScreen UltraEdge",
         "price": "299.00",
-        "image": "images/productIMG/pPTv/tv2.png",
+        "image": "images/productIMG/pPTv/tv2.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -36,7 +36,7 @@
         "category": "TV",
         "name": "LumaCore Infinity Series",
         "price": "2349.99",
-        "image": "images/productIMG/pPTv/tv3.png",
+        "image": "images/productIMG/pPTv/tv3.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -52,7 +52,7 @@
         "category": "TV",
         "name": "AstraView Quantum Pro",
         "price": "399.00",
-        "image": "images/productIMG/pPTv/tv4.png",
+        "image": "images/productIMG/pPTv/tv4.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -68,7 +68,7 @@
         "category": "TV",
         "name": "ZenithWave CrystalLine",
         "price": "459.99",
-        "image": "images/productIMG/pPTv/tv5.png",
+        "image": "images/productIMG/pPTv/tv5.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -84,7 +84,7 @@
         "category": "TV",
         "name": "ZenithWave CrystalLine",
         "price": "459.99",
-        "image": "images/productIMG/pPTv/tv5.png",
+        "image": "images/productIMG/pPTv/tv5.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -100,7 +100,7 @@
         "category": "TV",
         "name": "OptiLayer PrimeVision",
         "price": "529.00",
-        "image": "images/productIMG/pPTv/tv6.png",
+        "image": "images/productIMG/pPTv/tv6.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -116,7 +116,7 @@
         "category": "TV",
         "name": "SkyLuxe NeonFrame",
         "price": "459.99",
-        "image": "images/productIMG/pPTv/tv7.png",
+        "image": "images/productIMG/pPTv/tv7.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -132,7 +132,7 @@
         "category": "TV",
         "name": "ClarityForge SpectraOne",
         "price": "749.00",
-        "image": "images/productIMG/pPTv/tv8.png",
+        "image": "images/productIMG/pPTv/tv8.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -148,7 +148,7 @@
         "category": "TV",
         "name": "UltraSync AeroPanel",
         "price": "899.99",
-        "image": "images/productIMG/pPTv/tv9.png",
+        "image": "images/productIMG/pPTv/tv9.webp",
         "description": "Experience exceptional entertainment with this high-performance Smart TV, designed to deliver stunning visuals and immersive sound right in your home. With its sleek, modern design and advanced display technology, this TV brings your favorite movies, shows, sports, and games to life.",
         "features": [
             "High-resolution display with vivid colors and deep contrast",
@@ -164,7 +164,7 @@
         "category": "Washing Machine",
         "name": "AquaClean Pro 7kg",
         "price": "499.99",
-        "image": "images/productIMG/pPWashing/washing1.png",
+        "image": "images/productIMG/pPWashing/washing1.webp",
         "description": "Efficient and reliable washing machine with a 7kg drum, energy-saving design, and multiple wash programs for superior cleaning results.",
         "features": [
             "7kg drum capacity",
@@ -180,7 +180,7 @@
         "category": "Washing Machine",
         "name": "SpinMaster Ultra 8kg",
         "price": "549.99",
-        "image": "images/productIMG/pPWashing/washing2.png",
+        "image": "images/productIMG/pPWashing/washing2.webp",
         "description": "Powerful 8kg washing machine designed to handle large loads efficiently, with smart controls and energy-saving features.",
         "features": [
             "8kg drum capacity",
@@ -196,7 +196,7 @@
         "category": "Washing Machine",
         "name": "EcoWash 6kg",
         "price": "429.99",
-        "image": "images/productIMG/pPWashing/washing3.png",
+        "image": "images/productIMG/pPWashing/washing3.webp",
         "description": "Compact 6kg washing machine with eco-friendly operation, perfect for small families or apartments.",
         "features": [
             "6kg drum capacity",
@@ -212,7 +212,7 @@
         "category": "Washing Machine",
         "name": "TurboClean 9kg",
         "price": "599.99",
-        "image": "images/productIMG/pPWashing/washing4.png",
+        "image": "images/productIMG/pPWashing/washing4.webp",
         "description": "High-capacity 9kg washing machine for busy households, combining fast cycles, smart programs, and energy efficiency.",
         "features": [
             "9kg drum capacity",
@@ -228,7 +228,7 @@
         "category": "Washing Machine",
         "name": "LuxeWash 7.5kg",
         "price": "529.99",
-        "image": "images/productIMG/pPWashing/washing5.png",
+        "image": "images/productIMG/pPWashing/washing5.webp",
         "description": "Premium 7.5kg washing machine with advanced washing technology, quiet operation, and energy-saving features.",
         "features": [
             "7.5kg drum capacity",
@@ -244,7 +244,7 @@
         "category": "Washing Machine",
         "name": "QuickWash 6.5kg",
         "price": "479.99",
-        "image": "images/productIMG/pPWashing/washing6.png",
+        "image": "images/productIMG/pPWashing/washing6.webp",
         "description": "Compact 6.5kg washing machine designed for efficiency and convenience, ideal for small to medium households.",
         "features": [
             "6.5kg drum capacity",
@@ -260,7 +260,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster1.png",
+        "image": "images/productIMG/pPToaster/toaster1.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -276,7 +276,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster2.png",
+        "image": "images/productIMG/pPToaster/toaster2.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -292,7 +292,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster3.png",
+        "image": "images/productIMG/pPToaster/toaster3.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -308,7 +308,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster4.png",
+        "image": "images/productIMG/pPToaster/toaster4.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -324,7 +324,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster5.png",
+        "image": "images/productIMG/pPToaster/toaster5.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -340,7 +340,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster6.png",
+        "image": "images/productIMG/pPToaster/toaster6.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -356,7 +356,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster7.png",
+        "image": "images/productIMG/pPToaster/toaster7.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -372,7 +372,7 @@
         "category": "Toaster",
         "name": "QuickToast 2-Slice",
         "price": "29.99",
-        "image": "images/productIMG/pPToaster/toaster8.png",
+        "image": "images/productIMG/pPToaster/toaster8.webp",
         "description": "Efficient and easy-to-use toaster with multiple browning settings, perfect for a quick breakfast or snack.",
         "features": [
             "Multiple browning settings",
@@ -388,7 +388,7 @@
         "category": "Oven",
         "name": "HeatMaster Electric Oven",
         "price": "399.99",
-        "image": "images/productIMG/pPOven/ove1.png",
+        "image": "images/productIMG/pPOven/ove1.webp",
         "description": "Reliable and efficient electric oven with multiple cooking modes, perfect for baking, roasting, and grilling your favorite meals.",
         "features": [
             "Multiple cooking modes (bake, roast, grill)",
@@ -404,7 +404,7 @@
         "category": "Oven",
         "name": "HeatMaster Electric Oven",
         "price": "399.99",
-        "image": "images/productIMG/pPOven/ove2.png",
+        "image": "images/productIMG/pPOven/ove2.webp",
         "description": "Reliable and efficient electric oven with multiple cooking modes, perfect for baking, roasting, and grilling your favorite meals.",
         "features": [
             "Multiple cooking modes (bake, roast, grill)",
@@ -420,7 +420,7 @@
         "category": "Oven",
         "name": "HeatMaster Electric Oven",
         "price": "399.99",
-        "image": "images/productIMG/pPOven/ove3.png",
+        "image": "images/productIMG/pPOven/ove3.webp",
         "description": "Reliable and efficient electric oven with multiple cooking modes, perfect for baking, roasting, and grilling your favorite meals.",
         "features": [
             "Multiple cooking modes (bake, roast, grill)",
@@ -436,7 +436,7 @@
         "category": "Oven",
         "name": "HeatMaster Electric Oven",
         "price": "399.99",
-        "image": "images/productIMG/pPOven/ove4.png",
+        "image": "images/productIMG/pPOven/ove4.webp",
         "description": "Reliable and efficient electric oven with multiple cooking modes, perfect for baking, roasting, and grilling your favorite meals.",
         "features": [
             "Multiple cooking modes (bake, roast, grill)",
@@ -452,7 +452,7 @@
         "category": "Oven",
         "name": "HeatMaster Electric Oven",
         "price": "399.99",
-        "image": "images/productIMG/pPOven/ove5.png",
+        "image": "images/productIMG/pPOven/ove5.webp",
         "description": "Reliable and efficient electric oven with multiple cooking modes, perfect for baking, roasting, and grilling your favorite meals.",
         "features": [
             "Multiple cooking modes (bake, roast, grill)",
@@ -468,7 +468,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer1.png",
+        "image": "images/productIMG/pPMixer/mixer1.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -484,7 +484,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer2.png",
+        "image": "images/productIMG/pPMixer/mixer2.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -500,7 +500,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer3.png",
+        "image": "images/productIMG/pPMixer/mixer3.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -516,7 +516,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer4.png",
+        "image": "images/productIMG/pPMixer/mixer4.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -532,7 +532,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer5.png",
+        "image": "images/productIMG/pPMixer/mixer5.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -548,7 +548,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer6.png",
+        "image": "images/productIMG/pPMixer/mixer6.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -564,7 +564,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer7.png",
+        "image": "images/productIMG/pPMixer/mixer7.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -580,7 +580,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer8.png",
+        "image": "images/productIMG/pPMixer/mixer8.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -596,7 +596,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer9.png",
+        "image": "images/productIMG/pPMixer/mixer9.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -612,7 +612,7 @@
         "category": "Mixers",
         "name": "PowerBlend 500W",
         "price": "79.99",
-        "image": "images/productIMG/pPMixer/mixer10.png",
+        "image": "images/productIMG/pPMixer/mixer10.webp",
         "description": "Efficient and versatile mixer/blender perfect for smoothies, sauces, and everyday kitchen tasks. Durable and easy to clean for daily use.",
         "features": [
             "500W motor for powerful blending",
@@ -628,7 +628,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop1.png",
+        "image": "images/productIMG/pPLaptop/laptop1.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -644,7 +644,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop2.png",
+        "image": "images/productIMG/pPLaptop/laptop2.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -660,7 +660,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop3.png",
+        "image": "images/productIMG/pPLaptop/laptop3.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -676,7 +676,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop4.png",
+        "image": "images/productIMG/pPLaptop/laptop4.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -692,7 +692,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop5.png",
+        "image": "images/productIMG/pPLaptop/laptop5.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -708,7 +708,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop6.png",
+        "image": "images/productIMG/pPLaptop/laptop6.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -724,7 +724,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop7.png",
+        "image": "images/productIMG/pPLaptop/laptop7.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -740,7 +740,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop8.png",
+        "image": "images/productIMG/pPLaptop/laptop8.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -756,7 +756,7 @@
         "category": "Laptop",
         "name": "TechPro Ultrabook 14",
         "price": "899.99",
-        "image": "images/productIMG/pPLaptop/laptop9.png",
+        "image": "images/productIMG/pPLaptop/laptop9.webp",
         "description": "Sleek and powerful laptop ideal for work, study, and entertainment. Features high performance, long battery life, and a crisp display.",
         "features": [
             "Intel i5/i7 processor",
@@ -772,7 +772,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge1.png",
+        "image": "images/productIMG/pPFridge/fridge1.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -788,7 +788,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge2.png",
+        "image": "images/productIMG/pPFridge/fridge2.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -804,7 +804,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge3.png",
+        "image": "images/productIMG/pPFridge/fridge3.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -820,7 +820,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge4.png",
+        "image": "images/productIMG/pPFridge/fridge4.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -836,7 +836,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge5.png",
+        "image": "images/productIMG/pPFridge/fridge5.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -852,7 +852,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge6.png",
+        "image": "images/productIMG/pPFridge/fridge6.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -868,7 +868,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge7.png",
+        "image": "images/productIMG/pPFridge/fridge7.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -884,7 +884,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge8.png",
+        "image": "images/productIMG/pPFridge/fridge8.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -900,7 +900,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge9.png",
+        "image": "images/productIMG/pPFridge/fridge9.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -916,7 +916,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge10.png",
+        "image": "images/productIMG/pPFridge/fridge10.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
@@ -932,7 +932,7 @@
         "category": "Fridge",
         "name": "CoolMax 250L",
         "price": "499.99",
-        "image": "images/productIMG/pPFridge/fridge11.png",
+        "image": "images/productIMG/pPFridge/fridge11.webp",
         "description": "Spacious and energy-efficient fridge perfect for keeping your food fresh. Features adjustable shelves and temperature control for convenient storage.",
         "features": [
             "250L capacity",
