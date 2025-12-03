@@ -25,7 +25,7 @@ function addDataToHTML() {
         newProduct.href = 'detail.html?id=' + product.id;
         newProduct.classList.add('item');
         newProduct.innerHTML = `
-            <img src="${product.image}" alt="${product.name}" loading="lazy">
+            <img src="${product.image}" alt="${product.name}" loading="lazy" width="300" height="300"> 
             <h3>${product.name}</h3>
             <p>Price - €${product.price}</p>
         `;
